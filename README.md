@@ -1,5 +1,5 @@
 This project contains two upgradable smart contracts used in LIR music creation. Developed with Filippo Andretta (https://github.com/Pelepo).
-This are the most important commands:
+Init commands:
 
 ```shell
 
