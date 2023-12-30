@@ -1,4 +1,4 @@
-This project contains two upgradable smart contracts used in LIR music creation. Developed with Filippo Andretta (https://github.com/Pelepo).
+The repo contains two upgradable smart contracts used in LIR music token creation, visit the site if you're interested (https://lirmusic.com/). Developed with Filippo Andretta (https://github.com/Pelepo).
 Init commands:
 
 ```shell
